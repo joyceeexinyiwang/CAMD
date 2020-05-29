@@ -27,9 +27,6 @@ Click for the interview clip:
 
 <a href="https://www.youtube.com/embed/wZhUrXZskXk"><img src="/vid_ss.png" width="600"></a>
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wZhUrXZskXk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 <br>
 
 ## Result
