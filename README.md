@@ -35,8 +35,8 @@ I published a research paper: An Education that Diminishes Hope — An Examinati
 
 I also gave a presentation to the Phillips Academy community and showed interview footage with Chinese migrant workers and their children.
 
-Click on images for the paper pdf:
+Donwload PDF
 
-<img src="/table_ss.png" width="600">
+<a href="https://www.youtube.com/embed/wZhUrXZskXk"><img src="/table_ss.png" width="600"></a>
 
-<img src="/pdf_ss.png" width="600">
+<a href="https://www.youtube.com/embed/wZhUrXZskXk"><img src="/pdf_ss.png" width="600"></a>
